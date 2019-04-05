@@ -1,0 +1,10 @@
+/* Changement de style d'une page index */
+
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 300px;
+}
